@@ -5,7 +5,10 @@ Sistema planetario con el Sol, los 8 planetas, Plutón y la Luna de la Tierra pe
 > Autoría: Houyame Liazidi Daoudi · Asignatura: Informática Gráfica
 
 ## Vídeo de ejecución
-_(Enlazar aquí el vídeo, con tu nombre/autoría visible.)_
+https://youtu.be/7a0VZzMsy1E
+
+## Enlace de codesandbox
+https://codesandbox.io/p/sandbox/practica-7-forked-9f9s3y
 
 ## Qué se ha hecho
 - **Sistema**: Sol + 9 cuerpos orbitando (escalas y distancias no realistas, para verlos bien), anillo de Saturno y la Luna girando alrededor de la Tierra (grupo hijo del planeta).
