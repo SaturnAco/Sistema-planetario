@@ -31,8 +31,5 @@ _(Enlazar aquí el vídeo, con tu nombre/autoría visible.)_
 ## Fuentes
 - Prácticas 6 y 7 de la asignatura (código de referencia).
 - Documentación de three.js: https://threejs.org/docs/ (Raycaster, OrbitControls, FlyControls, ShaderMaterial).
-- Texturas: _indicar origen_ (p. ej. https://www.solarsystemscope.com/textures/ o la fuente de las prácticas).
-- Retratos de las Sailors: _indicar origen_ (obra de Naoko Takeuchi; uso educativo).
-
-## Asistencia de IA
-Código generado con ayuda de Claude (Anthropic). Conversación: _pegar enlace_.
+- Texturas: https://www.solarsystemscope.com/textures/
+- Retratos de las Sailors: obra de Naoko Takeuchi; uso educativo.
