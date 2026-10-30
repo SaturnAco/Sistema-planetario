@@ -22,14 +22,14 @@ https://codesandbox.io/p/sandbox/practica-7-forked-9f9s3y
 |---|---|---|
 | Mercurio | Mercury | azul |
 | Venus | Venus | naranja |
-| Tierra | Earth* | verde |
+| Tierra | Earth | verde |
 | Luna | Moon | amarillo |
 | Marte | Mars | rojo |
 | Júpiter | Jupiter | verde |
 | Saturno | Saturn | violeta |
 | Urano | Uranus | celeste |
 | Neptuno | Neptune | turquesa |
-| Plutón | Pluto | granate |
+| Plutón |   | granate |
 
 ## Fuentes
 - Prácticas 6 y 7 de la asignatura (código de referencia).
