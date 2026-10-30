@@ -1,8 +1,8 @@
-# Sistema solar Sailor (three.js)
+# Sistema solar Sailor
 
-Sistema planetario con el Sol, los 8 planetas, Plutón y la Luna de la Tierra. Al hacer clic en un astro se ilumina por los bordes con el color de su Sailor y aparece su retrato abajo a la derecha.
+Sistema planetario con el Sol, los 8 planetas, Plutón y la Luna de la Tierra pero con modficaciones inspiradas en la serie Sailor Moon. Al hacer clic en un astro, se ilumina por los bordes con el color de su Sailor y aparece su retrato abajo a la derecha.
 
-> Autoría: _tu nombre_ · Asignatura: Informática Gráfica
+> Autoría: Houyame Liazidi Daoudi · Asignatura: Informática Gráfica
 
 ## Vídeo de ejecución
 _(Enlazar aquí el vídeo, con tu nombre/autoría visible.)_
@@ -27,11 +27,6 @@ _(Enlazar aquí el vídeo, con tu nombre/autoría visible.)_
 | Urano | Uranus | celeste |
 | Neptuno | Neptune | turquesa |
 | Plutón | Pluto | granate |
-
-\*Sailor Earth no es guerrera principal en la serie; se puede cambiar en el array `PLANETAS` de `main.js`.
-
-## Ejecutar
-`npm install` y `npm run dev` (o importar el repositorio en CodeSandbox).
 
 ## Fuentes
 - Prácticas 6 y 7 de la asignatura (código de referencia).
